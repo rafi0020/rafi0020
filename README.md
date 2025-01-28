@@ -25,17 +25,21 @@ I am passionate about applying advanced computational techniques to solve real-w
    - Developed a hybrid ViT-CNN model to classify psychological stability using voice data.
    - Achieved 91% accuracy by leveraging CNNs for local patterns and ViTs for long-range dependencies.
    - Addressed data imbalance using SMOTE.
+     
 2. **Transfer Learning Approach for Mental Stability Detection**
    - Proposed a transfer learning approach using DenseNet121 for voice spectrogram classification.
    - Improved performance with data augmentation techniques like SpecAugment.
    - Dataset highlights: 85 recordings (4.65 hours) with a 48,000 Hz sampling rate, 128 mel bands, and 2048 window size.
+     
 3. **Hybrid Deep Models for Mental Health Detection with XAI Techniques**
    - Integrated DenseNet, ViTs, and GRU to detect mental instability.
    - Employed Explainable AI (XAI) to interpret decision-making processes.
+     
 4. **Self-Supervised Learning with Vision Transformer (ViT) for Noisy Real-World Data**
    - Leveraged self-supervised learning and ensemble techniques to classify mental stability from unprocessed, noisy data.
 5. **Bengali Vocal Spectrum Dataset**
    - Created the first open-source Bengali dataset for psychological stability analysis.
+     
 6. **[Hybrid Quantum-Classical Neural Network (H-QCNN) for Voice Analysis]**
    - Designed a hybrid model combining quantum circuits for feature extraction with classical CNN layers for classification.
    - Applied to voice spectrograms to enhance classification accuracy.
@@ -47,11 +51,14 @@ I am passionate about applying advanced computational techniques to solve real-w
 1. **BlockMedix AI: Decentralized Healthcare Data Management System**
    - Built a blockchain-based system to manage healthcare records securely.
    - Integrated AI algorithms to process and analyze medical data.
+     
 2. **Smart Dining: Caloric Display in Bangladeshi Restaurants**
    - Designed a system to display the caloric content of popular Bangladeshi dishes in restaurants using AI and image processing.
+     
 3. **Predicting Physical Activity Levels Using Machine Learning**
    - Applied classification models to predict physical activity levels from sensor data.
    - Achieved significant accuracy using Decision Trees and Random Forests.
+     
 4. **Skin Disease Diagnosis in Bangladesh Using Computer Vision**
    - Built a CNN-based image classification model to detect skin diseases prevalent in Bangladesh.
    - Trained the model on a dataset of labeled skin disease images.
