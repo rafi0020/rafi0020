@@ -1,6 +1,6 @@
 ## Hi there, I'm Rafiul Islam 👋
 
-### 💻 Researcher | Machine Learning and Ai Developer
+### 💻 Researcher | Machine Learning and AI Engineer
 
 I am passionate about applying advanced computational techniques to solve real-world problems. My expertise lies in signal processing, machine learning, and deep learning, with a focus on mental health diagnostics through voice analysis.
 
@@ -13,9 +13,9 @@ I am passionate about applying advanced computational techniques to solve real-w
   - Hybrid Quantum-Classical Neural Networks (H-QCNN).
   - Signal processing and spectrogram-based feature extraction.
 - 📚 **Key Research Papers**:
-  - [Mental Health Diagnosis From Voice Data Using Convolutional Neural Networks and Vision Transformers (Journal of Voice)](https://doi.org/10.1016/j.jvoice.2024.10.010)
-  - Ongoing: "Supervised Learning with Vision Transformer for Mental Stability Classification."
-  - Ongoing: "Explainable Hybrid Models for Mental Health Detection."
+  - [Mental Health Diagnosis From Voice Data Using Convolutional Neural Networks and Vision Transformers](https://doi.org/10.1016/j.jvoice.2024.10.010)
+  - Under Review: "A Novel Transfer Learning Approach for Mental Stability Classification from Voice Signal"
+  - Under Review: "Bengali Vocal Spectrum (BVS): A Bengali Voice Dataset for Psychological Stability Analysis"
 
 ---
 
@@ -24,18 +24,18 @@ I am passionate about applying advanced computational techniques to solve real-w
    - Developed a hybrid ViT-CNN model to classify psychological stability using voice data.
    - Achieved 91% accuracy by leveraging CNNs for local patterns and ViTs for long-range dependencies.
    - Addressed data imbalance using SMOTE.
-2. **Transfer Learning for Mental Stability Detection**
+2. **Transfer Learning Approach for Mental Stability Detection**
    - Proposed a transfer learning approach using DenseNet121 for voice spectrogram classification.
    - Improved performance with data augmentation techniques like SpecAugment.
    - Dataset highlights: 85 recordings (4.65 hours) with a 48,000 Hz sampling rate, 128 mel bands, and 2048 window size.
-3. **Explainable Hybrid Models for Mental Health Detection**
+3. **Hybrid Deep Models for Mental Health Detection with XAI Techniques**
    - Integrated DenseNet, ViTs, and GRU to detect mental instability.
    - Employed Explainable AI (XAI) to interpret decision-making processes.
-4. **Supervised Learning with Vision Transformer (ViT) for Noisy Real-World Data**
+4. **Self-Supervised Learning with Vision Transformer (ViT) for Noisy Real-World Data**
    - Leveraged self-supervised learning and ensemble techniques to classify mental stability from unprocessed, noisy data.
 5. **Bengali Vocal Spectrum Dataset**
    - Created the first open-source Bengali dataset for psychological stability analysis.
-6. **[Hybrid Quantum-Classical Neural Network (H-QCNN) for Mental Stability Detection]**
+6. **[Hybrid Quantum-Classical Neural Network (H-QCNN) for Voice Analysis]**
    - Designed a hybrid model combining quantum circuits for feature extraction with classical CNN layers for classification.
    - Applied to voice spectrograms to enhance classification accuracy.
 
