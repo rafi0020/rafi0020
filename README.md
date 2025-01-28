@@ -9,9 +9,11 @@ I am passionate about applying advanced computational techniques to solve real-w
 ### 🌟 Highlights:
 - ## 🔍 **Research Interests**:
   - Mental health diagnostics through voice data.
-  - Deep learning architectures: CNNs, Vision Transformers, GRU.
-  - Hybrid Quantum-Classical Neural Networks (H-QCNN).
   - Signal processing and spectrogram-based feature extraction.
+  - Enhancing diagnostic accuracy in healthcare through advanced transfer learning methods.
+  - Deploy Deep learning architectures like CNNs, ViT's, GRU, Multi-Path based network.
+  - Improving transparency in AI diagnostics using XAI techniques.
+  - Innovating hybrid quantum-classical architectures for solving complex healthcare challenges.
     
 - ## 📚 **Research Papers**:
   - [Mental Health Diagnosis From Voice Data Using Convolutional Neural Networks and Vision Transformers](https://doi.org/10.1016/j.jvoice.2024.10.010)
