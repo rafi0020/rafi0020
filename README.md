@@ -76,8 +76,19 @@ I am passionate about applying advanced computational techniques to solve real-w
 
 ---
 
-### 📫 Let's Connect:
-- **LinkedIn**: [https://www.linkedin.com/in/rafi009](https://www.linkedin.com/in/rafi009)
+## 📈 GitHub Stats
+
+![Rafi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafi0020&show_icons=true&theme=radical)
+
+## 🏆 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafi0020&layout=compact&theme=radical)
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/rafi009)
+[![Twitter](https://img.shields.io/badge/-Twitter-333333?style=flat&logo=twitter)](https://twitter.com/your-profile)
+[![Personal Website](https://img.shields.io/badge/-Website-333333?style=flat&logo=google-chrome)](https://yourwebsite.com)
 
 ---
 
