@@ -12,6 +12,7 @@ I am passionate about applying advanced computational techniques to solve real-w
   - Deep learning architectures: CNNs, Vision Transformers, GRU.
   - Hybrid Quantum-Classical Neural Networks (H-QCNN).
   - Signal processing and spectrogram-based feature extraction.
+    
 - 📚 **Key Research Papers**:
   - [Mental Health Diagnosis From Voice Data Using Convolutional Neural Networks and Vision Transformers](https://doi.org/10.1016/j.jvoice.2024.10.010)
   - Under Review: "A Novel Transfer Learning Approach for Mental Stability Classification from Voice Signal"
