@@ -7,13 +7,13 @@ I am passionate about applying advanced computational techniques to solve real-w
 ---
 
 ### 🌟 Highlights:
-- 🔬 **Research Interests**:
+- ## 🔍 **Research Interests**:
   - Mental health diagnostics through voice data.
   - Deep learning architectures: CNNs, Vision Transformers, GRU.
   - Hybrid Quantum-Classical Neural Networks (H-QCNN).
   - Signal processing and spectrogram-based feature extraction.
     
-- 📚 **Key Research Papers**:
+- ## 📚 **Research Papers**:
   - [Mental Health Diagnosis From Voice Data Using Convolutional Neural Networks and Vision Transformers](https://doi.org/10.1016/j.jvoice.2024.10.010)
   - Under Review: "A Novel Transfer Learning Approach for Mental Stability Classification from Voice Signal"
   - Under Review: "Bengali Vocal Spectrum (BVS): A Bengali Voice Dataset for Psychological Stability Analysis"
@@ -21,26 +21,31 @@ I am passionate about applying advanced computational techniques to solve real-w
 ---
 
 ### 🌟 Research Projects:
-1. **[Mental Health Diagnosis Using CNNs and Vision Transformers]**
-   - Developed a hybrid ViT-CNN model to classify psychological stability using voice data.
-   - Achieved 91% accuracy by leveraging CNNs for local patterns and ViTs for long-range dependencies.
-   - Addressed data imbalance using SMOTE.
-     
-2. **Transfer Learning Approach for Mental Stability Detection**
-   - Proposed a transfer learning approach using DenseNet121 for voice spectrogram classification.
-   - Improved performance with data augmentation techniques like SpecAugment.
-   - Dataset highlights: 85 recordings (4.65 hours) with a 48,000 Hz sampling rate, 128 mel bands, and 2048 window size.
-     
-3. **Hybrid Deep Models for Mental Health Detection with XAI Techniques**
+
+1. **[Mental Health Diagnosis Using CNNs and Vision Transformers](https://github.com/rafi0020/Mental_Health_Diagnosis_Voice_with_ViT-CNN)**  
+   - Developed a hybrid ViT-CNN model to classify psychological stability using voice spectrograms.
+   - Achieved 91% accuracy by leveraging CNNs for local patterns and Vision Transformers for long-range dependencies.
+   - Published in the **Journal of Voice (Q1)**.
+
+2. **[Transfer Learning for Mental Stability Classification](https://github.com/rafi0020/Mental_Stability_TransferLearning)**  
+   - Proposed a transfer learning pipeline with DenseNet121 achieving 94% accuracy and 99% AUC.
+   - Addressed data imbalance with SpecAugment and Gaussian noise.
+
+3. **[Bengali Vocal Spectrum Dataset](https://github.com/rafi0020/Feature_Extraction)**  
+   - Created the first open-source Bengali voice dataset for psychological stability analysis.
+   - Extracted features with log-mel spectrograms for mental health research.
+   - 85 recordings (4.65 hours) with a 48,000 Hz sampling rate, 128 mel bands, and 2048 window size.
+
+### 🔬 Ongoing Projects
+
+4. **Hybrid Deep Models for Mental Health Detection with XAI Techniques**
    - Integrated DenseNet, ViTs, and GRU to detect mental instability.
    - Employed Explainable AI (XAI) to interpret decision-making processes.
      
-4. **Self-Supervised Learning with Vision Transformer (ViT) for Noisy Real-World Data**
+5. **Self-Supervised Learning with Vision Transformer (ViT) for Noisy Real-World Data**
    - Leveraged self-supervised learning and ensemble techniques to classify mental stability from unprocessed, noisy data.
-5. **Bengali Vocal Spectrum Dataset**
-   - Created the first open-source Bengali dataset for psychological stability analysis.
      
-6. **[Hybrid Quantum-Classical Neural Network (H-QCNN) for Voice Analysis]**
+6. **Hybrid Quantum-Classical Neural Network (H-QCNN) for Voice Analysis**
    - Designed a hybrid model combining quantum circuits for feature extraction with classical CNN layers for classification.
    - Applied to voice spectrograms to enhance classification accuracy.
 
@@ -48,20 +53,22 @@ I am passionate about applying advanced computational techniques to solve real-w
 ---
 
 ### 🎓 Academic Projects:
-1. **BlockMedix AI: Decentralized Healthcare Data Management System**
-   - Built a blockchain-based system to manage healthcare records securely.
-   - Integrated AI algorithms to process and analyze medical data.
-     
-2. **Smart Dining: Caloric Display in Bangladeshi Restaurants**
-   - Designed a system to display the caloric content of popular Bangladeshi dishes in restaurants using AI and image processing.
-     
-3. **Predicting Physical Activity Levels Using Machine Learning**
-   - Applied classification models to predict physical activity levels from sensor data.
-   - Achieved significant accuracy using Decision Trees and Random Forests.
-     
-4. **Skin Disease Diagnosis in Bangladesh Using Computer Vision**
-   - Built a CNN-based image classification model to detect skin diseases prevalent in Bangladesh.
-   - Trained the model on a dataset of labeled skin disease images.
+
+1. **[BlockMedix AI: Decentralized Healthcare Management System](https://github.com/rafi0020/BlockMedix_AI)**  
+   - Blockchain-powered healthcare platform integrated with AI diagnostics.
+   - Features secure patient record storage, smart contracts, and real-time disease diagnostics.
+
+2. **[Predicting Physical Activity Levels Using Machine Learning](https://github.com/rafi0020/Physical_Activity_Prediction)**  
+   - Explored Logistic Regression, Decision Tree, and Random Forest models to predict activity levels.
+   - Achieved 78.02% accuracy using Random Forest with advanced feature selection.
+
+3. **[Smart Dining: Caloric Display for Bangladeshi Restaurants](https://github.com/rafi0020/Smart_Dining_Caloric_Display)**  
+   - Developed an AI-based system to estimate the caloric content of Bangladeshi dishes.
+   - Integrated regression models with a user-friendly interface for real-time caloric prediction.
+
+4. **[Skin Disease Diagnosis Using Computer Vision](https://github.com/rafi0020/Skin_Cancer_Detection)**  
+   - Implemented a deep learning-based diagnostic system for skin cancer classification.
+   - Enhanced model explainability with saliency maps for improved transparency.
 
 ---
 
@@ -69,6 +76,11 @@ I am passionate about applying advanced computational techniques to solve real-w
 - **Programming**: Python (Advanced), SQL, C.
 - **Libraries**: TensorFlow, PyTorch, Pandas, NumPy, Matplotlib, Scikit-learn.
 - **Tools**: Git, Jupyter Notebook, Audacity, Adobe Photoshop, Canva.
+- **Web Development**: HTML, CSS, JavaScript.
+
+### Machine Learning & AI
+- **Deep Learning Architectures**: CNNs, Vision Transformers, DenseNet, GRU.
+- **Applications**: Mental health diagnostics, caloric estimation, skin disease classification.
 - **Specializations**:
   - Data augmentation techniques (SpecAugment, Gaussian noise, random erasing).
   - Transfer learning and ensemble methods for deep learning.
@@ -87,8 +99,7 @@ I am passionate about applying advanced computational techniques to solve real-w
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/rafi009)
-[![Twitter](https://img.shields.io/badge/-Twitter-333333?style=flat&logo=twitter)](https://twitter.com/your-profile)
-[![Personal Website](https://img.shields.io/badge/-Website-333333?style=flat&logo=google-chrome)](https://yourwebsite.com)
+[![Google Scholar](https://img.shields.io/badge/-Google_Scholar-333333?style=flat&logo=google-chrome)](https://scholar.google.com/citations?user=ORj6wioAAAAJ&hl=en)
 
 ---
 
