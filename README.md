@@ -17,6 +17,7 @@ I am passionate about applying advanced computational techniques to solve real-w
     
 - ## 📚 **Research Papers**:
   - [Mental Health Diagnosis From Voice Data Using Convolutional Neural Networks and Vision Transformers](https://doi.org/10.1016/j.jvoice.2024.10.010)
+  - [Using Computer Vision for Skin Disease Diagnosis in Bangladesh Enhancing Interpretability and Transparency in Deep Learning Models for Skin Cancer Classification](https://doi.org/10.48550/arXiv.2501.18161)
   - Under Review: "A Novel Transfer Learning Approach for Mental Stability Classification from Voice Signal"
   - Under Review: "Bengali Vocal Spectrum (BVS): A Bengali Voice Dataset for Psychological Stability Analysis"
 
@@ -56,21 +57,21 @@ I am passionate about applying advanced computational techniques to solve real-w
 
 ### 🎓 Academic Projects:
 
-1. **[BlockMedix AI: Decentralized Healthcare Management System](https://github.com/rafi0020/BlockMedix_AI)**  
+1. **[Skin Disease Diagnosis Using Computer Vision](https://github.com/rafi0020/Skin_Cancer_Detection)**  
+   - Implemented a deep learning-based diagnostic system for skin cancer classification.
+   - Enhanced model explainability with saliency maps for improved transparency.
+     
+2. **[BlockMedix AI: Decentralized Healthcare Management System](https://github.com/rafi0020/BlockMedix_AI)**  
    - Blockchain-powered healthcare platform integrated with AI diagnostics.
    - Features secure patient record storage, smart contracts, and real-time disease diagnostics.
-
-2. **[Predicting Physical Activity Levels Using Machine Learning](https://github.com/rafi0020/Physical_Activity_Prediction)**  
-   - Explored Logistic Regression, Decision Tree, and Random Forest models to predict activity levels.
-   - Achieved 78.02% accuracy using Random Forest with advanced feature selection.
 
 3. **[Smart Dining: Caloric Display for Bangladeshi Restaurants](https://github.com/rafi0020/Smart_Dining_Caloric_Display)**  
    - Developed an AI-based system to estimate the caloric content of Bangladeshi dishes.
    - Integrated regression models with a user-friendly interface for real-time caloric prediction.
 
-4. **[Skin Disease Diagnosis Using Computer Vision](https://github.com/rafi0020/Skin_Cancer_Detection)**  
-   - Implemented a deep learning-based diagnostic system for skin cancer classification.
-   - Enhanced model explainability with saliency maps for improved transparency.
+4. **[Predicting Physical Activity Levels Using Machine Learning](https://github.com/rafi0020/Physical_Activity_Prediction)**  
+   - Explored Logistic Regression, Decision Tree, and Random Forest models to predict activity levels.
+   - Achieved 78.02% accuracy using Random Forest with advanced feature selection.
 
 ---
 
