@@ -57,7 +57,7 @@ I am passionate about applying advanced computational techniques to solve real-w
 
 ### 🎓 Academic Projects:
 
-1. **[Skin Disease Diagnosis Using Computer Vision](https://github.com/rafi0020/Skin_Cancer_Detection)**  
+1. **[Skin Cancer Diagnosis Using Computer Vision](https://github.com/rafi0020/Skin_Cancer_Detection)**  
    - Implemented a deep learning-based diagnostic system for skin cancer classification.
    - Enhanced model explainability with saliency maps for improved transparency.
      
