@@ -29,7 +29,7 @@ I am passionate about applying advanced computational techniques to solve real-w
    - Achieved 91% accuracy by leveraging CNNs for local patterns and Vision Transformers for long-range dependencies.
    - Published in the **Journal of Voice (Q1)**.
 
-2. **[Transfer Learning for Mental Stability Classification](https://github.com/rafi0020/Mental_Stability_TransferLearning)**  
+2. **[Transfer Learning for Mental Stability Classification](https://rafi0020.github.io/Mental_Stability_TransferLearning/)**  
    - Proposed a transfer learning pipeline with DenseNet121 achieving 94% accuracy and 99% AUC.
    - Addressed data imbalance with SpecAugment and Gaussian noise.
 
