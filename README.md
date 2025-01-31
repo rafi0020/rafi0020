@@ -49,8 +49,8 @@ I am passionate about applying advanced computational techniques to solve real-w
    - Leveraged self-supervised learning and ensemble techniques to classify mental stability from unprocessed, noisy data.
      
 6. **Hybrid Quantum-Classical Neural Network (H-QCNN) for Voice Analysis**
-   - Designed a hybrid model combining quantum circuits for feature extraction with classical CNN layers for classification.
-   - Applied to voice spectrograms to enhance classification accuracy.
+   - Designing a hybrid model combining quantum circuits for feature extraction with classical CNN layers for classification.
+   - Will apply to voice spectrograms to enhance classification accuracy.
 
 
 ---
