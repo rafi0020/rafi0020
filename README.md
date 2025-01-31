@@ -24,7 +24,7 @@ I am passionate about applying advanced computational techniques to solve real-w
 
 ### 🌟 Research Projects:
 
-1. **[Mental Health Diagnosis Using CNNs and Vision Transformers](https://github.com/rafi0020/Mental_Health_Diagnosis_Voice_with_ViT-CNN)**  
+1. **[Mental Health Diagnosis Using CNNs and Vision Transformers](https://rafi0020.github.io/Mental_Health_Diagnosis_Voice_with_ViT-CNN/)**  
    - Developed a hybrid ViT-CNN model to classify psychological stability using voice spectrograms.
    - Achieved 91% accuracy by leveraging CNNs for local patterns and Vision Transformers for long-range dependencies.
    - Published in the **Journal of Voice (Q1)**.
