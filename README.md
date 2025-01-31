@@ -19,7 +19,6 @@ I am passionate about applying advanced computational techniques to solve real-w
   - [Mental Health Diagnosis From Voice Data Using Convolutional Neural Networks and Vision Transformers](https://doi.org/10.1016/j.jvoice.2024.10.010)
   - [Using Computer Vision for Skin Disease Diagnosis in Bangladesh Enhancing Interpretability and Transparency in Deep Learning Models for Skin Cancer Classification](https://doi.org/10.48550/arXiv.2501.18161)
   - Under Review: "A Novel Transfer Learning Approach for Mental Stability Classification from Voice Signal"
-  - Under Review: "Bengali Vocal Spectrum (BVS): A Bengali Voice Dataset for Psychological Stability Analysis"
 
 ---
 
