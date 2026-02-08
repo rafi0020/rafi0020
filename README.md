@@ -138,11 +138,11 @@ Alongside research, I build **production-grade, real-time computer vision system
 
 ## 📈 GitHub Stats
 
-![Rafi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafi0020&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=rafi0020&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" />
 
 ## 🏆 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafi0020&layout=compact&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafi0020&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" />
 
 ## 📫 Connect with Me
 
