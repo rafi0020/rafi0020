@@ -1,0 +1,36 @@
+name: Generate GitHub Profile Stats Images
+
+on:
+  push:
+    branches: [ "main" ]
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+
+    - name: Generate GitHub stats images
+      uses: anuraghazra/github-readme-stats@v2
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        output: |
+          assets/github-stats.png
+          assets/top-langs.png
+        username: rafi0020
+        show_icons: true
+        theme: radical
+        hide_border: true
+
+    - name: Save images
+      run: |
+        git config user.name "github-actions[bot]"
+        git config user.email "github-actions[bot]@users.noreply.github.com"
+        git add assets/github-stats.png assets/top-langs.png
+        git commit -m "Update GitHub profile stats"
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
