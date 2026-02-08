@@ -138,11 +138,12 @@ Alongside research, I build **production-grade, real-time computer vision system
 
 ## 📈 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=rafi0020&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" />
+![GitHub Stats](assets/github-stats.png)
 
 ## 🏆 Top Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafi0020&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" />
+![Top Languages](assets/top-langs.png)
+
 
 ## 📫 Connect with Me
 
