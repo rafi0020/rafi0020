@@ -140,10 +140,6 @@ Alongside research, I build **production-grade, real-time computer vision system
 
 ![GitHub Stats](images/userstats.svg)
 
-## 🏆 Top Languages
-
-![Top Languages](assets/top-langs.png)
-
 
 ## 📫 Connect with Me
 
