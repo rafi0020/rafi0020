@@ -15,6 +15,9 @@ jobs:
 
     - name: Generate stats SVG
       uses: cicirello/user-statistician@v1
+      env:
+        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         output: |
