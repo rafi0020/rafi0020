@@ -28,29 +28,29 @@ Alongside research, I build **production-grade, real-time computer vision system
 
 ### 🧠 Research Projects:
 
-1. **[Mental Health Diagnosis Using CNNs and Vision Transformers](https://rafi0020.github.io/Mental_Health_Diagnosis_Voice_with_ViT-CNN/)**  
+1. **Mental Health Diagnosis Using CNNs and Vision Transformers**  
    - Developed a hybrid ViT-CNN model to classify psychological stability using voice spectrograms.
    - Achieved 91% accuracy by leveraging CNNs for local patterns and Vision Transformers for long-range dependencies.
    - Published in the **Journal of Voice (Q1)**.
 
-2. **[Transfer Learning for Mental Stability Classification](https://rafi0020.github.io/Mental_Stability_TransferLearning/)**  
+2. **Transfer Learning for Mental Stability Classification**  
    - Proposed a transfer learning pipeline with DenseNet121 achieving 94% accuracy and 99% AUC.
    - Addressed data imbalance with SpecAugment and Gaussian noise.
 
-3. **[Bengali Vocal Spectrum Dataset](https://github.com/rafi0020/Feature_Extraction)**  
+3. **Bengali Vocal Spectrum Dataset**  
    - Created the first open-source Bengali voice dataset for psychological stability analysis.
    - Extracted features with log-mel spectrograms for mental health research.
    - 85 recordings (4.65 hours) with a 48,000 Hz sampling rate, 128 mel bands, and 2048 window size.
 
-4. **[Skin Cancer Diagnosis Using Computer Vision](https://github.com/rafi0020/Skin_Cancer_Detection)**  
+4. **Skin Cancer Diagnosis Using Computer Vision**  
    - Implemented a deep learning-based diagnostic system for skin cancer classification.
    - Enhanced model explainability with saliency maps for improved transparency.
 
-5. **[Hybrid Deep Models for Mental Health Detection with XAI Techniques](https://rafi0020.github.io/Hybrid-DenseViTGRU-XAI-Voice/)** 
+5. **Hybrid Deep Models for Mental Health Detection with XAI Techniques** 
    - Integrated DenseNet, ViTs, and GRU to detect mental instability.
    - Employed Explainable AI (XAI) to interpret decision-making processes.
      
-6. **[Self-Supervised Learning with Vision Transformer (ViT) for Noisy Real-World Data](https://rafi0020.github.io/SelfSupervised-ViT-Noisy-Voice-Spectrograms/)**  
+6. **Self-Supervised Learning with Vision Transformer (ViT) for Noisy Real-World Data**  
    - Leveraged self-supervised learning and ensemble techniques to classify mental stability from unprocessed, noisy data.
      
 7. **Hybrid Quantum-Classical Neural Network (H-QCNN) for Voice Analysis**  
@@ -63,39 +63,53 @@ Alongside research, I build **production-grade, real-time computer vision system
 
 > End-to-end systems: detection → tracking → OCR/pose/depth → temporal logic → validation → evidence → API integration → edge deployment.
 
-1. **[Track My Container — Multi-Stage Container Identification (Edge AI)](https://rafi0020.github.io/track-my-container-demo/)**  
+1. **Track My Container — Multi-Stage Container Identification (Edge AI)**  
    - Fisheye undistortion + oriented bounding box detection + crop pairing logic.
    - OCR with PaddleOCR + ISO 6346 check-digit validation + prefix-correction heuristics.
    - Real-time serial/API integration on edge devices for robust container ID capture.
 
-2. **[Bangla ANPR (Automatic Number Plate Recognition) — Real-Time Pipeline](https://rafi0020.github.io/anpr-demo/)**
+2. **Bangla ANPR (Automatic Number Plate Recognition) — Real-Time Pipeline**
    - YOLO (OBB) plate detection + tracking (ByteTrack/BoxMOT) + ROI gating.
    - Bengali OCR (PaddleOCR) with language-specific dictionaries + format validation + confidence voting.
    - Event deduplication, rate limiting, and multi-camera entry/exit logic.
 
-3. **[Unilever Staircase Safety — Pose-Based Compliance](https://rafi0020.github.io/stairs-ai-demo/)**  
+3. **Unilever Staircase Safety — Pose-Based Compliance**  
    - YOLO person detection + MediaPipe Pose reasoning for handrail usage & phone-use detection.
    - Temporal state stabilization, evidence capture, and API posting via decoupled watcher services.
 
-4. **[Factory Safety & Compliance Platform (Intrusion, PPE, Safety Violations, Throwing Detection)](https://rafi0020.github.io/argus-automata-demo/)**  
+4. **Factory Safety & Compliance Platform (Intrusion, PPE, Safety Violations, Throwing Detection)**  
    - Multi-camera detection/tracking + ROI masks + hysteresis/persistence logic.
    - Evidence-backed alerts with SQLite-based logging per camera and cooldown control.
 
-5. **[AI SOP Checker (Real-time SOP Compliance Auditing System)](https://rafi0020.github.io/bat-ai-leaf-sop-demo/)**  
+5. **AI SOP Checker (Real-time SOP Compliance Auditing System)**  
    - Multi-process RTSP pipeline with ROI logic, snapshot evidence generation, and API reporting.
    - Multiple SOP modules (barcode scan, weighing behavior, moisture check, layer-by-layer check) with persistent state files.
 
-6. **[Smart Space Monitoring — Retail Intelligence CV Platform](https://rafi0020.github.io/smart-space-demo/)**  
+6. **Smart Space Monitoring — Retail Intelligence CV Platform**  
    - Footfall analytics, customer–bike interaction, employee vs customer desk classification (zone hysteresis + sessions).
    - Identity persistence + CRM capture (face/upper/full-body crops) and KPI analytics (service delay, time-to-interaction).
 
-7. **[Counterfeit Detection (Hybrid CV + DL)](https://rafi0020.github.io/Counterfeit-Detection/)**  
+7. **Counterfeit Detection (Hybrid CV + DL)**  
    - Watermark authenticity checks using classical CV + OCR verification (CLAHE + threshold search).
    - YOLO-based counterfeit classifier deployed via Streamlit with logging and batch inference support.
 
-8. **[Crowd / Mob Detection (Depth-Aware Analytics)](https://rafi0020.github.io/Crowd_mob_demo/)**  
+8. **Crowd / Mob Detection (Depth-Aware Analytics)**  
    - YOLO multi-class detection + DeepSORT tracking + monocular depth estimation (Depth-Anything-V2).
    - Spatial clustering + heatmap smoothing + escalation logic (weapon-aware) for public-safety scenarios.
+
+---
+
+## Agentic AI Projects
+
+I build LLM applications with evaluation, traceable decisions, and human review where the workflow calls for it.
+
+- **AgentOps** helps teams observe, evaluate, and release LLM applications using OpenTelemetry traces, dataset scoring, and release gates.
+- **DocIntel** extracts and validates information from invoices, scans, and ledgers, with hybrid search and a review interface.
+- **FinOps Agent** answers finance questions with read-only SQL and traceable calculations.
+- **ProcureMind** matches invoices, purchase orders, and goods receipts, then routes exceptions for approval with supporting evidence.
+- **VoiceOps** is a browser-based customer service voice agent that handles policy and billing questions, opens tickets, and hands off to a person when needed.
+
+[Visit my portfolio for case studies](https://www.rafiulislam.me).
 
 ---
 
@@ -109,7 +123,7 @@ Alongside research, I build **production-grade, real-time computer vision system
    - Developed an AI-based system to estimate the caloric content of Bangladeshi dishes.
    - Integrated regression models with a user-friendly interface for real-time caloric prediction.
 
-3. **[Predicting Physical Activity Levels Using Machine Learning](https://github.com/rafi0020/Physical_Activity_Prediction)**  
+3. **Predicting Physical Activity Levels Using Machine Learning**  
    - Explored Logistic Regression, Decision Tree, and Random Forest models to predict activity levels.
    - Achieved 78.02% accuracy using Random Forest with advanced feature selection.
 
